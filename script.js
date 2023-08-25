@@ -26,7 +26,7 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["Desenvolvedor Full-Stack Java"],
+         strings:["Desenvolvedor Front-end"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
